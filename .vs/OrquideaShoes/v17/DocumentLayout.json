@@ -1,70 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\anaso\\Downloads\\OrquideaShoes-1\\OrquideaShoes-1\\OrquideaShoes\\",
+  "WorkspaceRootPath": "C:\\Users\\isaiv\\Desktop\\GIT\\OrquideaShoes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|c:\\users\\anaso\\downloads\\orquideashoes-1\\orquideashoes-1\\orquideashoes\\forms\\ventas\\nuevoregistrodeventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|solutionrelative:forms\\ventas\\nuevoregistrodeventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|C:\\Users\\anaso\\Downloads\\OrquideaShoes-1\\OrquideaShoes-1\\OrquideaShoes\\forms\\articulos\\listaarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|solutionrelative:forms\\articulos\\listaarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|C:\\Users\\anaso\\Downloads\\OrquideaShoes-1\\OrquideaShoes-1\\OrquideaShoes\\forms\\ventas\\nuevafactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|solutionrelative:forms\\ventas\\nuevafactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|C:\\Users\\anaso\\Downloads\\OrquideaShoes-1\\OrquideaShoes-1\\OrquideaShoes\\forms\\ventas\\nuevoregistrodeventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|solutionrelative:forms\\ventas\\nuevoregistrodeventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|C:\\Users\\anaso\\Downloads\\OrquideaShoes-1\\OrquideaShoes-1\\OrquideaShoes\\forms\\clientes\\directoriodeclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|solutionrelative:forms\\clientes\\directoriodeclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|C:\\Users\\anaso\\Downloads\\OrquideaShoes-1\\OrquideaShoes-1\\OrquideaShoes\\forms\\principal\\opciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|solutionrelative:forms\\principal\\opciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|C:\\Users\\anaso\\Downloads\\OrquideaShoes-1\\OrquideaShoes-1\\OrquideaShoes\\forms\\ventas\\nuevafactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|solutionrelative:forms\\ventas\\nuevafactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|C:\\Users\\anaso\\Downloads\\OrquideaShoes-1\\OrquideaShoes-1\\OrquideaShoes\\forms\\principal\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|solutionrelative:forms\\principal\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|C:\\Users\\anaso\\Downloads\\OrquideaShoes-1\\OrquideaShoes-1\\OrquideaShoes\\forms\\clientes\\directoriodeclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|solutionrelative:forms\\clientes\\directoriodeclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|C:\\Users\\anaso\\Downloads\\OrquideaShoes-1\\OrquideaShoes-1\\OrquideaShoes\\forms\\principal\\opciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|solutionrelative:forms\\principal\\opciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|C:\\Users\\anaso\\Downloads\\OrquideaShoes-1\\OrquideaShoes-1\\OrquideaShoes\\forms\\articulos\\listaarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|solutionrelative:forms\\articulos\\listaarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|C:\\Users\\anaso\\Downloads\\OrquideaShoes-1\\OrquideaShoes-1\\OrquideaShoes\\forms\\ventas\\listaregistrodeventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|solutionrelative:forms\\ventas\\listaregistrodeventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|C:\\Users\\anaso\\Downloads\\OrquideaShoes-1\\OrquideaShoes-1\\OrquideaShoes\\forms\\ventas\\listaregistrodeventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|solutionrelative:forms\\ventas\\listaregistrodeventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|C:\\Users\\anaso\\Downloads\\OrquideaShoes-1\\OrquideaShoes-1\\OrquideaShoes\\forms\\principal\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|solutionrelative:forms\\principal\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|C:\\Users\\anaso\\Downloads\\OrquideaShoes-1\\OrquideaShoes-1\\OrquideaShoes\\logica\\almacendatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|C:\\Users\\isaiv\\Desktop\\GIT\\OrquideaShoes\\logica\\almacendatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|solutionrelative:logica\\almacendatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|C:\\Users\\anaso\\Downloads\\OrquideaShoes-1\\OrquideaShoes-1\\OrquideaShoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|C:\\Users\\isaiv\\Desktop\\GIT\\OrquideaShoes\\forms\\ventas\\listaregistrodeventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|solutionrelative:forms\\ventas\\listaregistrodeventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|c:\\users\\isaiv\\desktop\\git\\orquideashoes\\forms\\ventas\\nuevoregistrodeventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|solutionrelative:forms\\ventas\\nuevoregistrodeventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|c:\\users\\isaiv\\desktop\\git\\orquideashoes\\forms\\ventas\\listaregistrodeventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|solutionrelative:forms\\ventas\\listaregistrodeventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|c:\\users\\isaiv\\desktop\\git\\orquideashoes\\forms\\articulos\\agregarnuevoarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|solutionrelative:forms\\articulos\\agregarnuevoarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|c:\\users\\isaiv\\desktop\\git\\orquideashoes\\forms\\ventas\\nuevoregistrodeventas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|solutionrelative:forms\\ventas\\nuevoregistrodeventas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|C:\\Users\\isaiv\\Desktop\\GIT\\OrquideaShoes\\modelos\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|solutionrelative:modelos\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|C:\\Users\\isaiv\\Desktop\\GIT\\OrquideaShoes\\modelos\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|solutionrelative:modelos\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|c:\\users\\isaiv\\desktop\\git\\orquideashoes\\forms\\articulos\\agregarnuevoarticulo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|solutionrelative:forms\\articulos\\agregarnuevoarticulo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|c:\\users\\isaiv\\desktop\\git\\orquideashoes\\forms\\articulos\\agregarnuevoarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|solutionrelative:forms\\articulos\\agregarnuevoarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|c:\\users\\isaiv\\desktop\\git\\orquideashoes\\forms\\ventas\\nuevoregistrodeventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|solutionrelative:forms\\ventas\\nuevoregistrodeventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|c:\\users\\isaiv\\desktop\\git\\orquideashoes\\forms\\articulos\\listaarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|solutionrelative:forms\\articulos\\listaarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|C:\\Users\\isaiv\\Desktop\\GIT\\OrquideaShoes\\forms\\articulos\\listaarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|solutionrelative:forms\\articulos\\listaarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|C:\\Users\\isaiv\\Desktop\\GIT\\OrquideaShoes\\logica\\gestorarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C23553-71DF-4662-BB3A-33A2B325B589}|OrquideaShoes.csproj|solutionrelative:logica\\gestorarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,201 +66,189 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 10,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ListaArticulos.cs",
+              "DocumentMoniker": "C:\\Users\\isaiv\\Desktop\\GIT\\OrquideaShoes\\Forms\\Articulos\\ListaArticulos.cs",
+              "RelativeDocumentMoniker": "Forms\\Articulos\\ListaArticulos.cs",
+              "ToolTip": "C:\\Users\\isaiv\\Desktop\\GIT\\OrquideaShoes\\Forms\\Articulos\\ListaArticulos.cs",
+              "RelativeToolTip": "Forms\\Articulos\\ListaArticulos.cs",
+              "ViewState": "AQIAAGUBAAAAAAAAAAAgwHoBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:23:04.036Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NuevoRegistroDeVentas.cs",
-              "DocumentMoniker": "C:\\Users\\anaso\\Downloads\\OrquideaShoes-1\\OrquideaShoes-1\\OrquideaShoes\\Forms\\Ventas\\NuevoRegistroDeVentas.cs",
-              "RelativeDocumentMoniker": "Forms\\Ventas\\NuevoRegistroDeVentas.cs",
-              "ToolTip": "C:\\Users\\anaso\\Downloads\\OrquideaShoes-1\\OrquideaShoes-1\\OrquideaShoes\\Forms\\Ventas\\NuevoRegistroDeVentas.cs",
-              "RelativeToolTip": "Forms\\Ventas\\NuevoRegistroDeVentas.cs",
-              "ViewState": "AgIAAIYAAAAAAAAAAAAEwJ4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ListaRegistroDeVentas.cs",
+              "DocumentMoniker": "C:\\Users\\isaiv\\Desktop\\GIT\\OrquideaShoes\\Forms\\Ventas\\ListaRegistroDeVentas.cs",
+              "RelativeDocumentMoniker": "Forms\\Ventas\\ListaRegistroDeVentas.cs",
+              "ToolTip": "C:\\Users\\isaiv\\Desktop\\GIT\\OrquideaShoes\\Forms\\Ventas\\ListaRegistroDeVentas.cs",
+              "RelativeToolTip": "Forms\\Ventas\\ListaRegistroDeVentas.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAwwE8AAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T15:41:25.232Z",
+              "WhenOpened": "2024-11-19T12:29:00.98Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AgregarNuevoArticulo.cs",
+              "DocumentMoniker": "C:\\Users\\isaiv\\Desktop\\GIT\\OrquideaShoes\\Forms\\Articulos\\AgregarNuevoArticulo.cs",
+              "RelativeDocumentMoniker": "Forms\\Articulos\\AgregarNuevoArticulo.cs",
+              "ToolTip": "C:\\Users\\isaiv\\Desktop\\GIT\\OrquideaShoes\\Forms\\Articulos\\AgregarNuevoArticulo.cs",
+              "RelativeToolTip": "Forms\\Articulos\\AgregarNuevoArticulo.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAMwH0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:31:38.786Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "NuevaFactura.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\anaso\\Downloads\\OrquideaShoes-1\\OrquideaShoes-1\\OrquideaShoes\\Forms\\Ventas\\NuevaFactura.cs",
-              "RelativeDocumentMoniker": "Forms\\Ventas\\NuevaFactura.cs",
-              "ToolTip": "C:\\Users\\anaso\\Downloads\\OrquideaShoes-1\\OrquideaShoes-1\\OrquideaShoes\\Forms\\Ventas\\NuevaFactura.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Forms\\Ventas\\NuevaFactura.cs [Dise\u00F1o]",
+              "Title": "NuevoRegistroDeVentas.cs",
+              "DocumentMoniker": "C:\\Users\\isaiv\\Desktop\\GIT\\OrquideaShoes\\Forms\\Ventas\\NuevoRegistroDeVentas.cs",
+              "RelativeDocumentMoniker": "Forms\\Ventas\\NuevoRegistroDeVentas.cs",
+              "ToolTip": "C:\\Users\\isaiv\\Desktop\\GIT\\OrquideaShoes\\Forms\\Ventas\\NuevoRegistroDeVentas.cs",
+              "RelativeToolTip": "Forms\\Ventas\\NuevoRegistroDeVentas.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowDUAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T12:26:59.899Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ListaArticulos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\anaso\\Downloads\\OrquideaShoes-1\\OrquideaShoes-1\\OrquideaShoes\\Forms\\Articulos\\ListaArticulos.cs",
-              "RelativeDocumentMoniker": "Forms\\Articulos\\ListaArticulos.cs",
-              "ToolTip": "C:\\Users\\anaso\\Downloads\\OrquideaShoes-1\\OrquideaShoes-1\\OrquideaShoes\\Forms\\Articulos\\ListaArticulos.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Forms\\Articulos\\ListaArticulos.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T12:22:48.801Z"
+              "WhenOpened": "2024-11-21T17:28:33.927Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "NuevoRegistroDeVentas.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\anaso\\Downloads\\OrquideaShoes-1\\OrquideaShoes-1\\OrquideaShoes\\Forms\\Ventas\\NuevoRegistroDeVentas.cs",
-              "RelativeDocumentMoniker": "Forms\\Ventas\\NuevoRegistroDeVentas.cs",
-              "ToolTip": "C:\\Users\\anaso\\Downloads\\OrquideaShoes-1\\OrquideaShoes-1\\OrquideaShoes\\Forms\\Ventas\\NuevoRegistroDeVentas.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Forms\\Ventas\\NuevoRegistroDeVentas.cs [Dise\u00F1o]",
+              "Title": "ListaRegistroDeVentas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\isaiv\\Desktop\\GIT\\OrquideaShoes\\Forms\\Ventas\\ListaRegistroDeVentas.cs",
+              "RelativeDocumentMoniker": "Forms\\Ventas\\ListaRegistroDeVentas.cs",
+              "ToolTip": "C:\\Users\\isaiv\\Desktop\\GIT\\OrquideaShoes\\Forms\\Ventas\\ListaRegistroDeVentas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\Ventas\\ListaRegistroDeVentas.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T12:26:56.734Z"
+              "WhenOpened": "2024-11-21T18:17:43.098Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "DirectorioDeClientes.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\anaso\\Downloads\\OrquideaShoes-1\\OrquideaShoes-1\\OrquideaShoes\\Forms\\Clientes\\DirectorioDeClientes.cs",
-              "RelativeDocumentMoniker": "Forms\\Clientes\\DirectorioDeClientes.cs",
-              "ToolTip": "C:\\Users\\anaso\\Downloads\\OrquideaShoes-1\\OrquideaShoes-1\\OrquideaShoes\\Forms\\Clientes\\DirectorioDeClientes.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Forms\\Clientes\\DirectorioDeClientes.cs [Dise\u00F1o]",
+              "Title": "AgregarNuevoArticulo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\isaiv\\Desktop\\GIT\\OrquideaShoes\\Forms\\Articulos\\AgregarNuevoArticulo.cs",
+              "RelativeDocumentMoniker": "Forms\\Articulos\\AgregarNuevoArticulo.cs",
+              "ToolTip": "C:\\Users\\isaiv\\Desktop\\GIT\\OrquideaShoes\\Forms\\Articulos\\AgregarNuevoArticulo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\Articulos\\AgregarNuevoArticulo.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T12:31:17.563Z"
+              "WhenOpened": "2024-11-21T17:39:41.46Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Opciones.cs",
-              "DocumentMoniker": "C:\\Users\\anaso\\Downloads\\OrquideaShoes-1\\OrquideaShoes-1\\OrquideaShoes\\Forms\\Principal\\Opciones.cs",
-              "RelativeDocumentMoniker": "Forms\\Principal\\Opciones.cs",
-              "ToolTip": "C:\\Users\\anaso\\Downloads\\OrquideaShoes-1\\OrquideaShoes-1\\OrquideaShoes\\Forms\\Principal\\Opciones.cs",
-              "RelativeToolTip": "Forms\\Principal\\Opciones.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAowCcAAAAzAAAAAAAAAA==",
+              "Title": "NuevoRegistroDeVentas.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\isaiv\\Desktop\\GIT\\OrquideaShoes\\Forms\\Ventas\\NuevoRegistroDeVentas.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\Ventas\\NuevoRegistroDeVentas.Designer.cs",
+              "ToolTip": "C:\\Users\\isaiv\\Desktop\\GIT\\OrquideaShoes\\Forms\\Ventas\\NuevoRegistroDeVentas.Designer.cs",
+              "RelativeToolTip": "Forms\\Ventas\\NuevoRegistroDeVentas.Designer.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAowGYAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T12:19:21.118Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "NuevaFactura.cs",
-              "DocumentMoniker": "C:\\Users\\anaso\\Downloads\\OrquideaShoes-1\\OrquideaShoes-1\\OrquideaShoes\\Forms\\Ventas\\NuevaFactura.cs",
-              "RelativeDocumentMoniker": "Forms\\Ventas\\NuevaFactura.cs",
-              "ToolTip": "C:\\Users\\anaso\\Downloads\\OrquideaShoes-1\\OrquideaShoes-1\\OrquideaShoes\\Forms\\Ventas\\NuevaFactura.cs",
-              "RelativeToolTip": "Forms\\Ventas\\NuevaFactura.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAWwA8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T12:30:01.479Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Inicio.cs",
-              "DocumentMoniker": "C:\\Users\\anaso\\Downloads\\OrquideaShoes-1\\OrquideaShoes-1\\OrquideaShoes\\Forms\\Principal\\Inicio.cs",
-              "RelativeDocumentMoniker": "Forms\\Principal\\Inicio.cs",
-              "ToolTip": "C:\\Users\\anaso\\Downloads\\OrquideaShoes-1\\OrquideaShoes-1\\OrquideaShoes\\Forms\\Principal\\Inicio.cs",
-              "RelativeToolTip": "Forms\\Principal\\Inicio.cs",
-              "ViewState": "AgIAAMsAAAAAAAAAAAAAAD0AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T12:14:18.946Z"
+              "WhenOpened": "2024-11-21T17:37:37.503Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "DirectorioDeClientes.cs",
-              "DocumentMoniker": "C:\\Users\\anaso\\Downloads\\OrquideaShoes-1\\OrquideaShoes-1\\OrquideaShoes\\Forms\\Clientes\\DirectorioDeClientes.cs",
-              "RelativeDocumentMoniker": "Forms\\Clientes\\DirectorioDeClientes.cs",
-              "ToolTip": "C:\\Users\\anaso\\Downloads\\OrquideaShoes-1\\OrquideaShoes-1\\OrquideaShoes\\Forms\\Clientes\\DirectorioDeClientes.cs",
-              "RelativeToolTip": "Forms\\Clientes\\DirectorioDeClientes.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAewBgAAAAYAAAAAAAAAA==",
+              "Title": "AgregarNuevoArticulo.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\isaiv\\Desktop\\GIT\\OrquideaShoes\\Forms\\Articulos\\AgregarNuevoArticulo.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\Articulos\\AgregarNuevoArticulo.Designer.cs",
+              "ToolTip": "C:\\Users\\isaiv\\Desktop\\GIT\\OrquideaShoes\\Forms\\Articulos\\AgregarNuevoArticulo.Designer.cs",
+              "RelativeToolTip": "Forms\\Articulos\\AgregarNuevoArticulo.Designer.cs",
+              "ViewState": "AQIAAMUAAAAAAAAAAAAnwNQAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T12:31:10.519Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ListaArticulos.cs",
-              "DocumentMoniker": "C:\\Users\\anaso\\Downloads\\OrquideaShoes-1\\OrquideaShoes-1\\OrquideaShoes\\Forms\\Articulos\\ListaArticulos.cs",
-              "RelativeDocumentMoniker": "Forms\\Articulos\\ListaArticulos.cs",
-              "ToolTip": "C:\\Users\\anaso\\Downloads\\OrquideaShoes-1\\OrquideaShoes-1\\OrquideaShoes\\Forms\\Articulos\\ListaArticulos.cs",
-              "RelativeToolTip": "Forms\\Articulos\\ListaArticulos.cs",
-              "ViewState": "AgIAAKwBAAAAAAAAAAAewLsBAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T12:23:04.036Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Opciones.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\anaso\\Downloads\\OrquideaShoes-1\\OrquideaShoes-1\\OrquideaShoes\\Forms\\Principal\\Opciones.cs",
-              "RelativeDocumentMoniker": "Forms\\Principal\\Opciones.cs",
-              "ToolTip": "C:\\Users\\anaso\\Downloads\\OrquideaShoes-1\\OrquideaShoes-1\\OrquideaShoes\\Forms\\Principal\\Opciones.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Forms\\Principal\\Opciones.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T12:19:26.248Z"
+              "WhenOpened": "2024-11-21T17:37:21.64Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "ListaRegistroDeVentas.cs",
-              "DocumentMoniker": "C:\\Users\\anaso\\Downloads\\OrquideaShoes-1\\OrquideaShoes-1\\OrquideaShoes\\Forms\\Ventas\\ListaRegistroDeVentas.cs",
-              "RelativeDocumentMoniker": "Forms\\Ventas\\ListaRegistroDeVentas.cs",
-              "ToolTip": "C:\\Users\\anaso\\Downloads\\OrquideaShoes-1\\OrquideaShoes-1\\OrquideaShoes\\Forms\\Ventas\\ListaRegistroDeVentas.cs",
-              "RelativeToolTip": "Forms\\Ventas\\ListaRegistroDeVentas.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAWwBgAAAAYAAAAAAAAAA==",
+              "Title": "ListaArticulos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\isaiv\\Desktop\\GIT\\OrquideaShoes\\Forms\\Articulos\\ListaArticulos.cs",
+              "RelativeDocumentMoniker": "Forms\\Articulos\\ListaArticulos.cs",
+              "ToolTip": "C:\\Users\\isaiv\\Desktop\\GIT\\OrquideaShoes\\Forms\\Articulos\\ListaArticulos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\Articulos\\ListaArticulos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T12:29:00.98Z"
+              "WhenOpened": "2024-11-21T17:29:06.51Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ListaRegistroDeVentas.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\anaso\\Downloads\\OrquideaShoes-1\\OrquideaShoes-1\\OrquideaShoes\\Forms\\Ventas\\ListaRegistroDeVentas.cs",
-              "RelativeDocumentMoniker": "Forms\\Ventas\\ListaRegistroDeVentas.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\OrquideaShoes-1\\OrquideaShoes\\Forms\\Ventas\\ListaRegistroDeVentas.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\user\\Documents\\OrquideaShoes-1\\OrquideaShoes\\Forms\\Ventas\\ListaRegistroDeVentas.cs [Dise\u00F1o]",
+              "DocumentIndex": 10,
+              "Title": "NuevoRegistroDeVentas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\isaiv\\Desktop\\GIT\\OrquideaShoes\\Forms\\Ventas\\NuevoRegistroDeVentas.cs",
+              "RelativeDocumentMoniker": "Forms\\Ventas\\NuevoRegistroDeVentas.cs",
+              "ToolTip": "C:\\Users\\isaiv\\Desktop\\GIT\\OrquideaShoes\\Forms\\Ventas\\NuevoRegistroDeVentas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\Ventas\\NuevoRegistroDeVentas.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T12:27:01.231Z"
+              "WhenOpened": "2024-11-19T12:26:56.734Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 0,
               "Title": "AlmacenDatos.cs",
-              "DocumentMoniker": "C:\\Users\\anaso\\Downloads\\OrquideaShoes-1\\OrquideaShoes-1\\OrquideaShoes\\Logica\\AlmacenDatos.cs",
+              "DocumentMoniker": "C:\\Users\\isaiv\\Desktop\\GIT\\OrquideaShoes\\Logica\\AlmacenDatos.cs",
               "RelativeDocumentMoniker": "Logica\\AlmacenDatos.cs",
-              "ToolTip": "C:\\Users\\anaso\\Downloads\\OrquideaShoes-1\\OrquideaShoes-1\\OrquideaShoes\\Logica\\AlmacenDatos.cs",
+              "ToolTip": "C:\\Users\\isaiv\\Desktop\\GIT\\OrquideaShoes\\Logica\\AlmacenDatos.cs",
               "RelativeToolTip": "Logica\\AlmacenDatos.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAswEYAAABDAAAAAAAAAA==",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAowBIAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T12:17:29.46Z"
+              "WhenOpened": "2024-11-21T16:52:56.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\isaiv\\Desktop\\GIT\\OrquideaShoes\\Modelos\\Articulo.cs",
+              "RelativeDocumentMoniker": "Modelos\\Articulo.cs",
+              "ToolTip": "C:\\Users\\isaiv\\Desktop\\GIT\\OrquideaShoes\\Modelos\\Articulo.cs",
+              "RelativeToolTip": "Modelos\\Articulo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvxoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:53:07.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\isaiv\\Desktop\\GIT\\OrquideaShoes\\Modelos\\Venta.cs",
+              "RelativeDocumentMoniker": "Modelos\\Venta.cs",
+              "ToolTip": "C:\\Users\\isaiv\\Desktop\\GIT\\OrquideaShoes\\Modelos\\Venta.cs",
+              "RelativeToolTip": "Modelos\\Venta.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:53:09.982Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Inicio.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\anaso\\Downloads\\OrquideaShoes-1\\OrquideaShoes-1\\OrquideaShoes\\Forms\\Principal\\Inicio.cs",
-              "RelativeDocumentMoniker": "Forms\\Principal\\Inicio.cs",
-              "ToolTip": "C:\\Users\\anaso\\Downloads\\OrquideaShoes-1\\OrquideaShoes-1\\OrquideaShoes\\Forms\\Principal\\Inicio.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Forms\\Principal\\Inicio.cs [Dise\u00F1o]",
+              "Title": "GestorArticulos.cs",
+              "DocumentMoniker": "C:\\Users\\isaiv\\Desktop\\GIT\\OrquideaShoes\\Logica\\GestorArticulos.cs",
+              "RelativeDocumentMoniker": "Logica\\GestorArticulos.cs",
+              "ToolTip": "C:\\Users\\isaiv\\Desktop\\GIT\\OrquideaShoes\\Logica\\GestorArticulos.cs",
+              "RelativeToolTip": "Logica\\GestorArticulos.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAcwB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T12:12:05.629Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\anaso\\Downloads\\OrquideaShoes-1\\OrquideaShoes-1\\OrquideaShoes\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\anaso\\Downloads\\OrquideaShoes-1\\OrquideaShoes-1\\OrquideaShoes\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T12:05:02.412Z"
+              "WhenOpened": "2024-11-21T16:52:53.011Z",
+              "EditorCaption": ""
             }
           ]
         }
