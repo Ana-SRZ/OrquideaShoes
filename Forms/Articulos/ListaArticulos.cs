@@ -349,12 +349,15 @@ namespace OrquideaShoes
                     acumulado += articulo.Participacion;
                     articulo.ParticipacionAcumulada = acumulado;
 
-                    if (acumulado <= 0.80m)
-                        articulo.Clasificacion = "A";
-                    else if (acumulado <= 0.95m)
-                        articulo.Clasificacion = "B";
-                    else
-                        articulo.Clasificacion = "C";
+                    if(articulo.Clasificacion == null || articulo.Clasificacion.Length <= 0)
+                    {
+                        if (acumulado <= 0.80m)
+                            articulo.Clasificacion = "A";
+                        else if (acumulado <= 0.95m)
+                            articulo.Clasificacion = "B";
+                        else
+                            articulo.Clasificacion = "C";
+                    }
                 }
             }
             catch (Exception ex)
@@ -446,6 +449,43 @@ namespace OrquideaShoes
             menu.FormClosed += (s, args) => this.Close();
             menu.Show();
 
+        }
+
+        private void dataGridView1_CellDoubleClick(object sender, DataGridViewCellEventArgs e)
+        {
+            MessageBox.Show("Desea eliminar" + e.RowIndex);
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            if (dataGridView1.CurrentRow == null)
+            {
+                MessageBox.Show("No se ha seleccionado ninguna fila.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
+            int articuloId = Convert.ToInt32(dataGridView1.CurrentRow.Cells[0].Value.ToString());
+            var articuloAEliminar = AlmacenDatos.Articulos.FirstOrDefault(a => a.Id == articuloId);
+
+            if (articuloAEliminar == null)
+            {
+                MessageBox.Show("No se encontró el artículo seleccionado.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
+            var deleteConfirmation = MessageBox.Show(
+                $"¿Deseas eliminar el artículo '{articuloAEliminar.Descripcion}'?",
+                "Eliminar producto",
+                MessageBoxButtons.YesNoCancel,
+                MessageBoxIcon.Question
+            );
+
+            if (deleteConfirmation == DialogResult.Yes)
+            {
+                AlmacenDatos.Articulos.Remove(articuloAEliminar);
+                CargarDatos();
+                MessageBox.Show("El artículo fue eliminado exitosamente.", "Eliminación exitosa", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
         }
     }
 }

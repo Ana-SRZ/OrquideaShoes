@@ -21,7 +21,7 @@ namespace OrquideaShoes
         {
             InitializeComponent();
             _articulo = new Articulo();
-        }
+        }   
 
         public AgregarNuevoArticulo(Articulo articulo)
         {
@@ -131,9 +131,10 @@ namespace OrquideaShoes
                 {
                     // Actualizar o crear artículo
                     _articulo.Codigo = textBox1.Text.Trim();
-                    _articulo.Descripcion = textBox2.Text.Trim();
-                    _articulo.Precio = decimal.Parse(textBox3.Text);
+                    _articulo.Descripcion = textBox8.Text.Trim();
                     _articulo.Stock = int.Parse(textBox4.Text);
+                    _articulo.Precio = decimal.Parse(textBox3.Text);
+                    _articulo.Clasificacion = textBox2.Text.Trim();
 
                     if (!_esEdicion)
                     {
